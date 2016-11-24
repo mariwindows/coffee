@@ -1,0 +1,112 @@
+.navbar{
+    border-radius: 0;
+    margin-bottom: 0;
+    background-color: #870234;
+    color: #FFFFFF;
+    
+}
+
+.listaC{
+	margin-left: 250px;
+
+}
+
+.jumbotron{
+	
+    background: #000 url("../webroot/img/intro.jpg") center center;
+    width: 100%;
+    height: 800px;
+    background-size: cover;
+    overflow: hidden;
+
+}
+
+.home{
+	font-family: 'Ranga', cursive;
+	padding-top: 20px;
+	margin-top: 0;
+	color: #F11E64;
+	font-size: 60px;
+
+}
+
+.sub{
+	font-family: 'Oswald', sans-serif;
+	color: #F3D351;
+	font-size: 30px;
+	padding-bottom: 30px;
+
+
+}
+
+.des{
+	font-family: 'Indie Flower', cursive;
+	color: #000;
+	font-size: 25px;
+
+
+}
+
+.prodMuestra{
+	padding-bottom: 70px;
+	border-color: #FCE7D3;
+	border: 1;
+
+}
+
+.bgView{
+	background-color: #F7DABF;
+	height: 600px;
+	margin: 0;
+	padding: 30px;
+
+}
+
+.espacio{
+	width: 500px;
+	height: 100px;
+	margin: 0;
+	padding: 0;
+}
+
+.desc{
+	padding: 0;
+	margin: 0;
+}
+
+
+.contenedor{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+.bot{
+	background-color: #870234;
+	border-radius:8px;
+
+}
+
+.bot:hover, 
+.bot:focus, 
+.bot:active, 
+.bot.active, 
+.open .dropdown-toggle.bot { 
+  color: #ffffff; 
+  background-color: #F11E64; 
+  border-radius:8px;
+
+} 
+
+
+.bg-1 { 
+    background-color: #FEF2FA; /* Green */
+    color: #870234;
+    margin: 0;
+    padding: 0;
+    height: 580px;
+}
+
+.formu{
+	margin-top: 70px;
+}
